@@ -8,4 +8,5 @@ It works for me and I hope it could work for you as well :)
 Usage
 -----
 
-  ./rubynator.rb path_dir_you_want_to_check and_a_next_dir and_here_as_well_please ok_you_get_it
+    ./rubynator.rb path_dir_you_want_to_check and_a_next_dir and_here_as_well_please ok_you_get_it
+
