@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 dirs = ARGV
 
 dirs_with_code_lines = ARGV.map do |arg|
